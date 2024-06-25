@@ -1,4 +1,5 @@
 Forecasting electricity prices for Fairbanks, AK 
+Overview: 
 
 Models Deployed: 
 - SARIMA
@@ -11,3 +12,6 @@ Data Sources:
 - GVEA Residential Rates
 - RCA Filings
 
+Methods Used: 
+- Interpolation
+- Linear regression
