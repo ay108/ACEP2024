@@ -6,7 +6,6 @@ Overview: Electricity is a basic necessity. Especially in the context of Alaska,
 ## Models Deployed: 
 - SARIMA
 - SARIMAX
-- Prophet
 - LSTM
 
 ## Data Sources: 
